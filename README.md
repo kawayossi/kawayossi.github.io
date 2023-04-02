@@ -2,9 +2,7 @@
 
 ## project
 * artifical finger
-* 
-
-https://user-images.githubusercontent.com/95467333/229352445-8cd06805-c47e-4520-b714-db1910c405fa.mp4
+![top-page](https://kawayossi.github.io/img/test.mp4)
 
 
 * lab camera
