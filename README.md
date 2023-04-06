@@ -4,7 +4,7 @@
 * artifical finger
 ![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/img/artifical_finger.jpg?raw=true)
 
----
+------
 * lab camera
 ![pic_bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/pic_bot.png?raw=true)
 
