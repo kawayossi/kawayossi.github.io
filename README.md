@@ -4,4 +4,5 @@
 これは<span style="color: red; ">赤文字</span>です
 
 ## [About me](https://kawayossi.github.io/aboutme)
-## [project](https://kawayossi.github.io/project)
+## [Projects](https://kawayossi.github.io/project)
+## [Achievements](https://kawayossi.github.io/achievement)
