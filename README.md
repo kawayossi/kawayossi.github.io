@@ -27,7 +27,7 @@ LocationMindとのインターンで開発しました．国際学会のIEEE　S
 
 ---
 * heartbeat visualize device  
-<img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/HRmonitor.jpg" widt="50%">  
+<img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/HRmonitor.jpg" width="50%">  
 リブト株式会社でのアルバイト中に開発を行いました．CEATECや八王子ものづくりEXPOで展示し，様々な人に使っていただきました．
 
 ---
