@@ -8,7 +8,7 @@
 * lab camera
 ![pic_bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/pic_bot.png?raw=true)
 * research of luminane contrast sensivity
-
+![vision](https://github.com/kawayossi/kawayossi.github.io/blob/img/vision_poster.jpg?raw=true)
 * RO-bot
 ![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png?raw=true)
 * 3D environment measurement
