@@ -8,9 +8,12 @@
 * lab camera
 ![pic_bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/pic_bot.png?raw=true)
 * research of luminane contrast sensivity
+![vision](https://github.com/kawayossi/kawayossi.github.io/blob/img/vision_poster.jpg?raw=true)
 * RO-bot
 * 3D environment measurement
+![uwb](https://github.com/kawayossi/kawayossi.github.io/blob/img/UWB_poster.jpg?raw=true)
 * heartbeat visualize device
 ![HRmonitor](https://github.com/kawayossi/kawayossi.github.io/blob/img/HRmonitor.jpg?raw=true)
 * emg & move syncronization system using mediapipe
+![emg](https://github.com/kawayossi/kawayossi.github.io/blob/img/EMG_poster.jpg?raw=true)
 * 
