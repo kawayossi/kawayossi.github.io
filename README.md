@@ -6,7 +6,7 @@
 
 ## project
 * artifical finger
-[test](https://kawayossi.github.io/page)
+[<span style="font-size: 200%; color: red;">リンク</span>](https://kawayossi.github.io/page)
 ![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/img/artifical_finger.jpg?raw=true)  
 <img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/artifical_finger.jpg" width="50%">
 高専5年生の時の卒業研究です．指を欠損してしまった人のための筋電義指の検証用に作りました．サーボモータで，使用者の筋電位に応じて指の曲げ伸ばしの制御を行います．Arduinoを使いました．
