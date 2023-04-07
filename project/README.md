@@ -25,7 +25,7 @@
 
 ---
 * RO-bot  
-![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.jpg?raw=true)  
+![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png?raw=true)  
 <img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png">  
 ハッカソンで，RO機器の水漏れを検知しお知らせするシステムを試作し提案しました．短期間での実装力が評価され，最優秀賞を頂くことができました．
 
