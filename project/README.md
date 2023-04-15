@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/AFicon.PNG"></td>
-<td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png"></td>
-<td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/HRicon.PNG"></td>
+<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/RO-bot_icon.png"></td>
+<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/HRicon.PNG"></td>
 </tr>
 </table>
 
