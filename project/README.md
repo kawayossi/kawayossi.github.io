@@ -5,6 +5,14 @@
 
 
 ## project
+|Artifical finger|RO-bot|HR monitor|
+|---|---|---|
+|test|test|test|
+
+
+
+
+
 * artifical finger
 [<span style="font-size: 200%; color: red;">リンク</span>](https://kawayossi.github.io/page)
 ![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/img/artifical_finger.jpg?raw=true)  
