@@ -12,7 +12,7 @@
 <tr>
   <th>Artifical finger</th>
   <th>RO-bot</th>
-  <th>HR monitor</th>
+  <th>HR-monitor</th>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/AFicon.PNG"></td>
