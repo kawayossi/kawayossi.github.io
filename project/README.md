@@ -10,6 +10,11 @@
 |![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/img/artifical_finger.jpg?raw=true)|![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png?raw=true)|![HRmonitor](https://github.com/kawayossi/kawayossi.github.io/blob/img/HRmonitor.jpg?raw=true)|
 <table>
 <tr>
+  <th>Artifical finger</th>
+  <th>RO-bot</th>
+  <th>HR monitor</th>
+</tr>
+<tr>
 <td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/AFicon.PNG"></td>
 <td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png"></td>
 <td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/HRicon.PNG"></td>
