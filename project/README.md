@@ -15,7 +15,7 @@
   <th>HR monitor</th>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/Artificalfingericon.PNG"></td>
+<td>![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/img/Artificalfingericon.PNG?raw=true)</td>
 <td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/RO-bot_icon.png"></td>
 <td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/HRmonitoricon.PNG"></td>
 </tr>
