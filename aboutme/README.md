@@ -9,3 +9,5 @@
 * 車
 * イラスト
 * 写真
+![S660](https://github.com/kawayossi/kawayossi.github.io/blob/img/S660.jpg?raw=true)
+愛車のイラストをグッズ化したり，写真集を作ったりしています．
