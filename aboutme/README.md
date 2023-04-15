@@ -8,6 +8,6 @@
 # 趣味
 * 車
 * イラスト
-* 写真
-![S660](https://github.com/kawayossi/kawayossi.github.io/blob/img/S660.jpeg?raw=true)
+* 写真  
+![S660](https://github.com/kawayossi/kawayossi.github.io/blob/img/S660.jpeg?raw=true)  
 愛車のイラストをグッズ化したり，写真集を作ったりしています．
