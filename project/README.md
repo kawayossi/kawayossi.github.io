@@ -15,13 +15,14 @@
   <th>HR monitor</th>
 </tr>
 <tr>
-<td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/AFicon.PNG"></td>
+<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/AFicon.PNG"></td>
 <td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/RO-bot_icon.png"></td>
 <td><img src="https://github.com/kawayossi/kawayossi.github.io/blob/img/HRicon.PNG"></td>
 </tr>
 </table>
 
-
+https://github.com/kawayossi/kawayossi.github.io/blob/img/AFicon.PNG
+https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/img/artifical_finger.jpg
 
 * artifical finger
 [<span style="font-size: 200%; color: red;">リンク</span>](https://kawayossi.github.io/page)
