@@ -6,9 +6,7 @@ Projects
 
 ## project
 |Artifical finger|RO-bot|HR monitor|
-
 |---|---|---|
-
 |![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/AFicon.PNG?raw=true)|![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/img/ROboticon.PNG?raw=true)|![HRmonitor](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/HRicon.PNG?raw=true)|
 <table>
 <tr>
