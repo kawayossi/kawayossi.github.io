@@ -9,7 +9,7 @@ Projects
 
 |---|---|---|
 
-|![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/AFicon.PNG?raw=true)|![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/img/RO-bot_icon.png?raw=true)|![HRmonitor](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/HRmonitoricon.PNG?raw=true)|
+|![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/AFicon.PNG?raw=true)|![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/img/ROboticon.PNG?raw=true)|![HRmonitor](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/HRicon.PNG?raw=true)|
 <table>
 <tr>
   <th>Artifical finger</th>
@@ -18,8 +18,8 @@ Projects
 </tr>
 <tr>
 <td>![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/AFicon.PNG?raw=true)</td>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-bot_icon.png"></td>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HRmonitoricon.PNG"></td>
+<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/ROboticon.PNG"></td>
+<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HRicon.PNG"></td>
 </tr>
 </table>
 
