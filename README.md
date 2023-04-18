@@ -17,7 +17,7 @@ Projects
   <th>HR monitor</th>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="10"></td>
+<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG"></td>
 <td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/ROboticon.PNG"></td>
 <td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HRicon.PNG"></td>
 </tr>
