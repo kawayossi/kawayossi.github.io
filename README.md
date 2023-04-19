@@ -49,7 +49,7 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 筋電で制御することのできる義手は存在するのですが，義指は存在せず，どのように実装するかが課題となっています．所属していた研究室では，長年ロボットアームを用いて筋電義指についての検証を行っていましたが，より直感的なものが欲しいと考え，Arduinoでサーボモータを用いて制御する筋電義指を制作しました．土台となる手の模型は粘土で作成し，可動部は3Dプリンターで作成しました．人の手に近い見栄えで，親指の動作検出には母子対立筋を，人差し指の動作検出には浅指屈筋の筋電を用い実際の指の動作を反映できるので，オープンキャンパスでの研究室公開では特に注目を集めていました．   
 
 **動画**  
-<a href="https://www.youtube.com/shorts/SAgB8IC5RTc"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/artifical_finger.jpg"  width="30%"></a>  
+<a href="https://www.youtube.com/shorts/SAgB8IC5RTc"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/artifical_finger.jpg"  width="20%"></a>  
 
 
 
@@ -59,11 +59,11 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 
 **提案時の原稿**  
 
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="50%">  
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="40%">  
 
 **デモ動画**  
 
-<a href="https://youtu.be/frYLwYayRM0"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botdemo.png" width="60%"></a>  
+<a href="https://youtu.be/frYLwYayRM0"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botdemo.png" width="40%"></a>  
 
 
 
