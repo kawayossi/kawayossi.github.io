@@ -45,14 +45,16 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 <a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>
 画像クリックでpdfが開きます
 (動画を入れる予定)
-<img src="/pic/EMG_poster.jpg" width="500" alt="" />
-<a href="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.pdf">
+
 ### ヒトの視覚機能について
 豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>
+<a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="10%"></a>
+画像クリックでpdfが開きます
 
 ### 競技中の怪我防止システムの提案
 体育教員から，指導の際に筋肉の使用バランスについて手軽にフィードバックできるようなモノが欲しいという要望を受け制作しました．モーションキャプチャよりも手軽に動作を取得したいとのことで，カメラ1台で骨格検出が可能なMediapipeと筋電センサを組み合わせ，怪我防止に効果的なフィードバックシステムについて検討しました．Raspberry Piで試作機を作ったところ，体育教員からは手軽で表示がわかりやすく画期的と喜んでもらえました．
-
+<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="10%"></a>
+画像クリックでpdfが開きます
 
 ## Awords
 - 先進的技術シンポジウム2020　優秀ポスター賞<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク</a>
