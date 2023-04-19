@@ -21,8 +21,10 @@
 ## Skills
 
 - Python
-- OpneCV
+- OpenCV
 - R
+- MATLAB
+- ROS
 - Raspberry Pi
 - Arduino
 - M5Stack
