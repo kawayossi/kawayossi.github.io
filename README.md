@@ -25,6 +25,10 @@
 -----
 
 ## project
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG"> **Artifical finger**
+
+
+
 
 |Artifical finger|RO-bot|HR monitor|
 |---|---|---|
