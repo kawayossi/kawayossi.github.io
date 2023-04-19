@@ -41,8 +41,8 @@
 ## Research
 
 ### 三次元環境デバイスの開発
-UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>  
-<a href="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.pdf" Content-Disposition: inline;><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>
+UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．<a href="https:Content-Disposition:inline;//www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>  
+<a href="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>
 画像クリックでpdfが開きます
 (動画を入れる予定)
 
