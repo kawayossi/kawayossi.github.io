@@ -25,7 +25,7 @@
 -----
 
 ## project
-###筋電義指  
+### 筋電義指  
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="5%">
 
 
