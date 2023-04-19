@@ -32,7 +32,7 @@
 
 ### RO-bot
 臨床工学技士からのお話を聞き，課題を解決するために開発を行うハッカソンに参加した際の作品です．RO機器という人工透析に用いる機会の水漏れの発見が遅れ，処置に影響が出てしまうという課題に対して，光センサにより水漏れを検知しSlackbotでお知らせするシステムを提案しました．2日間という限られた時間の中で検知からお知らせのデモまで実装することができました．実装力とシステムの有用性が評価され，最優秀賞を頂くことができました．(生体医工学サマースクール2022)  
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.jpg" width="10%">
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.png" width="10%">
 (動画を入れる予定)
 
 ### 心拍センサ
@@ -42,7 +42,8 @@
 
 ### 三次元環境デバイスの開発
 UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>  
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%">
+<a href="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>
+画像クリックでpdfが開きます
 (動画を入れる予定)
 
 ### ヒトの視覚機能について
