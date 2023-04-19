@@ -2,20 +2,20 @@
 # 吉川　真由(Mayu Yoshikawa)
 
 ## Bio
-**2016-2021**
+### 2016-2021　
 東京工業高等専門学校　電子工学科  
-**2021-2023**
+### 2021-2023　
 東京工業高等専門学校　電気電子工学専攻  
-### 研究内容
-- 生体工学　筋電や心理物理実験に関する研究に携わりました
-- IoT　Raspberry PiやArduinoを使ったデバイス作りに取り組みました
+##### 研究内容 
+- **生体工学**　筋電や心理物理実験に関する研究に携わりました
+- **IoT**　Raspberry PiやArduinoを使ったデバイス作りに取り組みました
   
-  
-**2023-**
-東京大学　新領域創成科学研究科　人間環境学専攻　修士課程在籍中
-### 研究内容
-- 制御工学　Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形成を行う自律移動車いすの開発を行います
-- 心理学　ドライビングシミュレータを用いた効果的な運転教育手法について検討を進めています
+---  
+### 2023-　
+東京大学　新領域創成科学研究科　人間環境学専攻　修士課程在籍中  
+##### 研究内容
+- **制御工学**　Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形成を行う自律移動車いすの開発を行います
+- **心理学**　ドライビングシミュレータを用いた効果的な運転教育手法について検討を進めています
 
 -----
 ## Skills
@@ -49,13 +49,13 @@
 ## Research
 
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBicon.PNG" width="10%"> **三次元環境測定デバイスの開発**  
-UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>  
+UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．(<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>)  
 <a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます
 (動画を入れる予定)
 
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Vicon.PNG" width="10%"> **ヒトの視覚機能について**  
-豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>  
+豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．(<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>)  
 <a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます
 
@@ -65,12 +65,12 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 画像クリックでpdfが開きます
 
 ## Awords
-- 先進的技術シンポジウム2020　優秀ポスター賞<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク</a>
-- 日本生体医工学会サマースクール2022　最優秀賞<a href="https://sites.google.com/view/bh2022jsmbeorg/">外部リンク</a>
+- 先進的技術シンポジウム2020　優秀ポスター賞(<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク)</a>
+- 日本生体医工学会サマースクール2022　最優秀賞(<a href="https://sites.google.com/view/bh2022jsmbeorg/">外部リンク</a>)
 
 ## Papers
-- IEEE Sensors Jounal　"Indoor spatial-environment measurement using ultra-wideband positioning system"<a href="https://ieeexplore.ieee.org/abstract/document/9967251">外部リンク</a>
-- 日本生体医工学会誌　"概日リズムによる輝度コントラスト感度特性の変化"<a href="https://www.jstage.jst.go.jp/article/jsmbe/60/6/60_158/_article/-char/ja/">外部リンク</a>
+- IEEE Sensors Jounal　"Indoor spatial-environment measurement using ultra-wideband positioning system"(<a href="https://ieeexplore.ieee.org/abstract/document/9967251">外部リンク</a>)
+- 日本生体医工学会誌　"概日リズムによる輝度コントラスト感度特性の変化"(<a href="https://www.jstage.jst.go.jp/article/jsmbe/60/6/60_158/_article/-char/ja/">外部リンク</a>)
 
 
 
