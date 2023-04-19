@@ -9,7 +9,8 @@
 #### 研究内容
 - 生体工学　筋電や心理物理実験に関する研究に携わりました
 - IoT　Raspberry PiやArduinoを使ったデバイス作りに取り組みました
-
+  
+  
 ### <span style="font-size: 200%;">2023-</span>  
 東京大学　新領域創成科学研究科　人間環境学専攻　修士課程在籍中
 #### 研究内容
@@ -54,8 +55,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 (動画を入れる予定)
 
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Vicon.PNG" width="10%"> **ヒトの視覚機能について**  
-豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．  
-<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>
+豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>  
 <a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます
 
