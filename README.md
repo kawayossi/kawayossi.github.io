@@ -11,17 +11,18 @@
 
 -----
 ## Skills
--Python
--OpneCV
--R
--Raspberry Pi
--Arduino
--M5Stack
--Unity
--Blender
--Fusion 360  
 
+- Python
+- OpneCV
+- R
+- Raspberry Pi
+- Arduino
+- M5Stack
+- Unity
+- Blender
+- Fusion 360  
 
+-----
 
 ## project
 
