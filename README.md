@@ -53,8 +53,8 @@
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBicon.PNG" width="10%"> **三次元環境測定デバイスの開発**  
 UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．(<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>)  
 <a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>  
-画像クリックでpdfが開きます
-(動画を入れる予定)
+画像クリックでpdfが開きます  
+https://youtu.be/wCBCOTiGVgs
 
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Vicon.PNG" width="10%"> **ヒトの視覚機能について**  
 豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．(<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>)  
