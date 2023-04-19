@@ -2,17 +2,17 @@
 # 吉川　真由(Mayu Yoshikawa)
 
 ## Bio
-**<span style="font-size: 200%;">2016-2021</span>**  
+### <span style="font-size: 200%;">2016-2021</span>  
 東京工業高等専門学校　電子工学科  
-**<span style="font-size: 200%;">2021-2023</span>**  
+### <span style="font-size: 200%;">2021-2023</span>  
 東京工業高等専門学校　電気電子工学専攻  
-### 研究内容
+#### 研究内容
 - 生体工学　筋電や心理物理実験に関する研究に携わりました
 - IoT　Raspberry PiやArduinoを使ったデバイス作りに取り組みました
 
-**<span style="font-size: 200%;">2023-</span>**  
+### <span style="font-size: 200%;">2023-</span>  
 東京大学　新領域創成科学研究科　人間環境学専攻　修士課程在籍中
-### 研究内容
+#### 研究内容
 - 制御工学　Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形成を行う自律移動車いすの開発を行います
 - 心理学　ドライビングシミュレータを用いた効果的な運転教育手法について検討を進めています
 
