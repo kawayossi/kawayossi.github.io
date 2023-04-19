@@ -73,7 +73,7 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 
 **八王子ものづくりEXPOでの展示**  
 
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HR_expo.JPG" width="400px">
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HR_expo.JPG" width="400px"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HRmonitorinst.jpg" width="250px">
 
 # Research
 
@@ -83,7 +83,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 **ポスターpdf**  
 
-<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="100px"></a>  
+<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="100px"></a><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBinst.png" width="400px">  
 
 **リアルタイムプロット動画**  
 
@@ -104,7 +104,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 **ポスターpdf**  
 
-<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="100px"></a>  
+<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="100px"></a><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMGinst.png" width="400px">  
 
 # Awards
 - 先進的技術シンポジウム2020　優秀ポスター賞(<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク)</a>
