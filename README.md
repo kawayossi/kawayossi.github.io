@@ -28,16 +28,13 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 - R
 - MATLAB
 - OpenCV
-- 
 #### ロボット
 - ROS
-- 
 #### ハードウェア開発
 - Raspberry Pi
 - Arduino
 - M5Stack
 - Fusion 360  
-- 
 #### 3DCG
 - Unity
 - Blender
@@ -49,14 +46,16 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 ### 筋電義指
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="10%">  
 
-筋電で制御することのできる義手は存在するのですが，義指は存在せず，どのように実装するかが課題となっています．所属していた研究室では，長年ロボットアームを用いて筋電義指についての検証を行っていましたが，より直感的なものが欲しいと考え，Arduinoでサーボモータを用いて制御する筋電義指を制作しました．土台となる手の模型は粘土で作成し，可動部は3Dプリンターで作成しました．人の手に近い見栄えで，筋電入力に対してしっかり動作するため，オープンキャンパスでの研究室公開では特に注目を集めていました．
-<a href="https://www.youtube.com/shorts/SAgB8IC5RTc"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/artifical_finger.jpg" width="10%"></a>
+筋電で制御することのできる義手は存在するのですが，義指は存在せず，どのように実装するかが課題となっています．所属していた研究室では，長年ロボットアームを用いて筋電義指についての検証を行っていましたが，より直感的なものが欲しいと考え，Arduinoでサーボモータを用いて制御する筋電義指を制作しました．土台となる手の模型は粘土で作成し，可動部は3Dプリンターで作成しました．人の手に近い見栄えで，筋電入力に対してしっかり動作するため，オープンキャンパスでの研究室公開では特に注目を集めていました．  
+<a href="https://www.youtube.com/shorts/SAgB8IC5RTc"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/artifical_finger.jpg" width="40%"></a>  
+画像クリックで動画再生
+
 
 ### RO-bot
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/ROboticon.PNG" width="10%">  
 臨床工学技士からのお話を聞き，課題を解決するために開発を行うハッカソンに参加した際の作品です．RO機器という人工透析に用いる機会の水漏れの発見が遅れ，処置に影響が出てしまうという課題に対して，光センサにより水漏れを検知しSlackbotでお知らせするシステムを提案しました．2日間という限られた時間の中で検知からお知らせのデモまで実装することができました．実装力とシステムの有用性が評価され，最優秀賞を頂くことができました．(生体医工学サマースクール2022)  
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="50%">
-[![](https://img.youtube.com/vi/frYLwYayRM0/0.jpg)](https://www.youtube.com/watch?v=frYLwYayRM0)
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="50%">  
+[![](https://img.youtube.com/vi/frYLwYayRM0/0.jpg)](https://www.youtube.com/watch?v=frYLwYayRM0)  
 
 ### 心拍センサ
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HRicon.PNG" width="10%">  
@@ -67,7 +66,8 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 
 ### 三次元環境測定デバイスの開発
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBicon.PNG" width="10%"> 
-UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．(<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>)  
+UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．  
+(<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>)  
 <a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます  
 [![](https://img.youtube.com/vi/wCBCOTiGVgs/0.jpg)](https://www.youtube.com/watch?v=wCBCOTiGVgs)  
