@@ -25,7 +25,7 @@
 -----
 
 ## project
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="8%"> <span style="font-size: 200%;">Artifical finger</span>
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="5%"> **Artifical finger**
 
 
 
