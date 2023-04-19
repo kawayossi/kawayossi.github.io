@@ -32,7 +32,7 @@
 -----
 
 ## Projects
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="10%"> ### 筋電義指  
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG" width="10%"> **筋電義指**  
 
 筋電で制御することのできる義手は存在するのですが，義指は存在せず，どのように実装するかが課題となっています．所属していた研究室では，長年ロボットアームを用いて筋電義指についての検証を行っていましたが，より直感的なものが欲しいと考え，Arduinoでサーボモータを用いて制御する筋電義指を制作しました．土台となる手の模型は粘土で作成し，可動部は3Dプリンターで作成しました．人の手に近い見栄えで，筋電入力に対してしっかり動作するため，オープンキャンパスでの研究室公開では特に注目を集めていました．
 (動画を入れる予定)
