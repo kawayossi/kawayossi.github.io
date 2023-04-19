@@ -32,7 +32,7 @@
 
 ### RO-bot
 臨床工学技士からのお話を聞き，課題を解決するために開発を行うハッカソンに参加した際の作品です．RO機器という人工透析に用いる機会の水漏れの発見が遅れ，処置に影響が出てしまうという課題に対して，光センサにより水漏れを検知しSlackbotでお知らせするシステムを提案しました．2日間という限られた時間の中で検知からお知らせのデモまで実装することができました．実装力とシステムの有用性が評価され，最優秀賞を頂くことができました．(生体医工学サマースクール2022)  
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.png" width="10%">
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="50%">
 (動画を入れる予定)
 
 ### 心拍センサ
@@ -42,18 +42,19 @@
 
 ### 三次元環境デバイスの開発
 UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました．<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>  
-<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>
+<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます
 (動画を入れる予定)
 
 ### ヒトの視覚機能について
-豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>
-<a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="10%"></a>
+豊橋技科大の研究室との共同研究で，視覚機能について解明するためにヒトの心理物理実験を行いました．人の視覚機能において輝度コントラスト感度は日内変動するのではないかという仮説のもと実験を進め，結果としては朝よりも夜の方が視力が良くなるという驚くべき結果が得られました．データ解析のためのPython，統計検定のためのR言語の習得，実験に用いたディスプレイの色校正，ヒトの目と光や色の関わりなど，多くのことを学ぶことができました．  
+<a href="https://www.eiiris.tut.ac.jp/blog/research-activities/research-publication/230317-paper/">外部リンク</a>
+<a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます
 
 ### 競技中の怪我防止システムの提案
-体育教員から，指導の際に筋肉の使用バランスについて手軽にフィードバックできるようなモノが欲しいという要望を受け制作しました．モーションキャプチャよりも手軽に動作を取得したいとのことで，カメラ1台で骨格検出が可能なMediapipeと筋電センサを組み合わせ，怪我防止に効果的なフィードバックシステムについて検討しました．Raspberry Piで試作機を作ったところ，体育教員からは手軽で表示がわかりやすく画期的と喜んでもらえました．
-<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="10%"></a>
+体育教員から，指導の際に筋肉の使用バランスについて手軽にフィードバックできるようなモノが欲しいという要望を受け制作しました．モーションキャプチャよりも手軽に動作を取得したいとのことで，カメラ1台で骨格検出が可能なMediapipeと筋電センサを組み合わせ，怪我防止に効果的なフィードバックシステムについて検討しました．Raspberry Piで試作機を作ったところ，体育教員からは手軽で表示がわかりやすく画期的と喜んでもらえました．  
+<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="10%"></a>  
 画像クリックでpdfが開きます
 
 ## Awords
@@ -66,21 +67,4 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 
 
-
-
-|Artifical finger|RO-bot|HR monitor|
-|---|---|---|
-|![artifical_finger](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/AFicon.PNG?raw=true)|![RO-bot](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/ROboticon.PNG?raw=true)|![HRmonitor](https://github.com/kawayossi/kawayossi.github.io/blob/main/pic/HRicon.PNG?raw=true)|
-<table>
-<tr>
-  <th>Artifical finger</th>
-  <th>RO-bot</th>
-  <th>HR monitor</th>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/AFicon.PNG"></td>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/ROboticon.PNG"></td>
-<td><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/HRicon.PNG"></td>
-</tr>
-</table>
 
