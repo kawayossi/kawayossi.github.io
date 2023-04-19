@@ -59,7 +59,7 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 
 **提案時の原稿**  
 
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="300px">  
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botmemo.JPG" width="300px"> <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/RO-botinst.png" width="300px"> 
 
 **デモ動画**  
 
