@@ -83,7 +83,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 **ポスターpdf**  
 
-<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="200px"></a>  
+<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="100px"></a>  
 
 **リアルタイムプロット動画**  
 
@@ -96,7 +96,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 **ポスターpdf**  
 
-<a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="200px"></a>  
+<a href="/pic/Contrast_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Contrast_poster.jpg" width="100px"></a>  
 
 ### 競技中の怪我防止システムの提案
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMGicon.PNG" width="100px">  
@@ -104,7 +104,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 **ポスターpdf**  
 
-<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="200px"></a>  
+<a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="100px"></a>  
 
 # Awards
 - 先進的技術シンポジウム2020　優秀ポスター賞(<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク)</a>
