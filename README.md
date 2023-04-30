@@ -79,7 +79,8 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 
 ### 三次元環境測定デバイスの開発
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBicon.PNG" width="100px"> 
-UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました． (<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>)  
+UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました． (<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>) 
+
 
 **ポスターpdf**  
 
@@ -88,7 +89,12 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 **リアルタイムプロット動画**  
 
 <a href="https://youtu.be/wCBCOTiGVgs"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBdemo.png" width="600px"></a>  
-
+  
+    
+    
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBnew.PNG" width="400px"> 
+人が持って測定を行なう為デバイスの重さが課題となっていましたが，最新型ではUWB評価キットの基板を直接Raspberry Piに接続し，ケースの設計を変えることで軽量化が実現しました．(500g→300g)  
+  
 
 ### ヒトの視覚機能について
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Vicon.PNG" width="100px">  
