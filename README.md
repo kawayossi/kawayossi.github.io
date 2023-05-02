@@ -84,16 +84,16 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 
 **ポスターpdf**  
 
-<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="150px"> </a><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBinst.png" width="300px">  
+<a href="/pic/UWB_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWB_poster.jpg" width="150px"> </a>  
 
 **リアルタイムプロット動画**  
 
 <a href="https://youtu.be/wCBCOTiGVgs"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBdemo.png" width="600px"></a>  
   
     
-    
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBnew.JPG" width="350px"> 
-人が持って測定を行なう為デバイスの重さが課題となっていましたが，最新型ではUWB評価キットの基板を直接Raspberry Piに接続し，ケースの設計を変えることで軽量化が実現しました．(500g→300g)  
+**デバイスの詳細**
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBnew.JPG" width="350px"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBinst.png" width="300px">  
+人が持って測定を行なう為デバイスの重さが課題となっていましたが，右図の最新型ではUWB評価キットの基板を直接Raspberry Piに接続し，ケースの設計を変えることで軽量化が実現しました．(500g→300g)  
   
 
 ### ヒトの視覚機能について
