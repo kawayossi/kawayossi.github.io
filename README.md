@@ -91,7 +91,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 <a href="https://youtu.be/wCBCOTiGVgs"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBdemo.png" width="600px"></a>  
   
     
-**デバイスの詳細**
+**デバイスの詳細**  
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBnew.JPG" width="350px"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBinst.png" width="300px">  
 人が持って測定を行なう為デバイスの重さが課題となっていましたが，右図の最新型ではUWB評価キットの基板を直接Raspberry Piに接続し，ケースの設計を変えることで軽量化が実現しました．(500g→300g)  
   
