@@ -124,7 +124,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 # Awards
 - 先進的技術シンポジウム2020　優秀ポスター賞(<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク)</a>
 - 日本生体医工学会サマースクール2022　最優秀賞(<a href="https://sites.google.com/view/bh2022jsmbeorg/">外部リンク</a>)
-- FIT2023　FIT奨励賞
+- FIT2023　FIT奨励賞　(<a href="https://www.ipsj.or.jp/award/fit-syorei.html">外部リンク</a>)
 
 # Papers
 - IEEE Sensors Jounal　"Indoor spatial-environment measurement using ultra-wideband positioning system"(<a href="https://ieeexplore.ieee.org/abstract/document/9967251">外部リンク</a>)
