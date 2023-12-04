@@ -81,8 +81,6 @@ Visual odometoryやIMUセンサなどを用いて自己位置推定と地図形�
 <img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/UWBicon.PNG" width="100px"> 
 UWB(Ultra Wide Band)による測位システムを用いた新たなプロダクトの提案に取り組みました．UWBでは高精度の測位が可能となっているため，屋内での温度や照度といった環境要素の分布が測定できるのではないかと考え，環境センサとUWB測位システムを組み合わせた三次元環境測定デバイスを試作しました．得られたデータの可視化にも工夫し，Unityを用いたリアルタイムプロット機能を実装しました．オフィスや工場など，様々な実地測定を行い，測定結果は施設の使用者にフィードバックしました． (<a href="https://www.facebook.com/locationmind/posts/pfbid02Vib8nXTKZH3FWx8B32V1386iuXhU4qtHMk85UwnZWqUy2gsPuG4P9UnqQzYPioBel">外部リンク</a>) 
 
-### 高齢者の過大評価是正を目指した運転教育
-
 
 **ポスターpdf**  
 
@@ -113,6 +111,12 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 **ポスターpdf**  
 
 <a href="/pic/EMG_poster.pdf"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMG_poster.jpg" width="150px"></a><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/EMGdemo.JPG" width="300px">  
+
+### 高齢者の過大評価是正を目指した運転教育
+
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/Elderlydriver.png" width="100px"> 
+高齢者運転者事故の低減に向けて，効果的な運転教育手法について検討しています．高齢運転者の特性として，自身の運転能力が衰えているにも関わらず，運転に対する自己評価が高いという過大評価があり，これを是正させることが有効であるとされています．ドライビングシミュレータで危険体験を行った後に，対話型の運転振り返り教育を実施する手法が過大評価の是正に有効であることを実験結果から示すことができました．今後は，自己評価だけでなく実車運転行動を改善させることを目標として研究に取り組んでいます．ドライビングシミュレータでの運転行動から，高齢者個人の運転特性を分析し，実車運転時での不安全行動を予測することで，具体的な運転改善の教示ができるシステムの構築を目指しています．
+
 
 # Awards
 - 先進的技術シンポジウム2020　優秀ポスター賞(<a href="https://www.kousen.tut.ac.jp/research/project/past_report/r02_report">外部リンク)</a>
