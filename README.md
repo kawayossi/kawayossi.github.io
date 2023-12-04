@@ -135,7 +135,7 @@ UWB(Ultra Wide Band)による測位システムを用いた新たなプロダク
 - 車
 - イラスト
 
-<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/s660.jpg" width="350px"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/s660i.jpeg" width="200px">  
+<img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/s660.jpg" width="350px"><img src="https://raw.githubusercontent.com/kawayossi/kawayossi.github.io/main/pic/s660i.jpeg" width="230px">  
 
 
 
